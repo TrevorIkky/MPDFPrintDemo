@@ -1,0 +1,272 @@
+body {
+    width: 830px;
+    margin: 0 auto;
+    font-family: 'Century Gothic', sans-serif;
+}
+
+#print-icon {
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+.container-start {
+    display: flex;
+    justify-content: start;
+}
+
+/* Table2 Data */
+
+.ti {
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin: 0px auto;
+}
+
+.ti td {
+    font-size: 13px;
+    padding: 10px 5px;
+    border-style: solid;
+    border-width: 1px;
+    overflow: hidden;
+    word-break: normal;
+    border-color: black;
+}
+
+.ti th {
+    font-size: 13px;
+    font-weight: normal;
+    padding: 10px 5px;
+    border-style: solid;
+    border-width: 1px;
+    overflow: hidden;
+    word-break: normal;
+    border-color: black;
+}
+
+.ti .ti-lboi {
+    border-color: inherit;
+    text-align: left;
+    vertical-align: middle
+}
+
+.ti .ti-zv4m {
+    border-color: #ffffff;
+    text-align: left;
+    vertical-align: top
+}
+
+.ti .ti-zv4mt {
+    border-top-color: #656565;
+    border-left-color: #ffffff;
+    border-bottom-color: #ffffff;
+    border-right-color: #656565;
+    text-align: left;
+    vertical-align: top
+}
+
+.ti .ti-zv4mt3 {
+    border-top-color: #656565;
+    border-left-color: #ffffff;
+    border-bottom-color: #ffffff;
+    border-right-color: #ffffff;
+    text-align: left;
+    vertical-align: top
+}
+
+.ti .ti-zv4mt2 {
+    border-top-color: #ffffff;
+    border-left-color: #ffffff;
+    border-bottom-color: #ffffff;
+    border-right-color: #656565;
+    text-align: left;
+    vertical-align: top
+}
+
+.ti .ti-zlqz {
+    font-weight: bold;
+    background-color: #c0c0c0;
+    border-color: #656565;
+    text-align: center;
+    vertical-align: top
+}
+
+.ti .ti-efol {
+    font-weight: bold;
+    background-color: #c0c0c0;
+    border-color: #656565;
+    text-align: center;
+    vertical-align: middle
+}
+
+.ti .ti-0pky {
+    border-color: #656565;
+    text-align: left;
+    vertical-align: top
+}
+
+.ti .ti-2bev {
+    border-color: #656565;
+    text-align: left;
+    vertical-align: top
+}
+
+.ti .ti-fymr {
+    font-weight: bold;
+    border-color: inherit;
+    text-align: left;
+    vertical-align: top
+}
+
+/* New table 1 */
+
+.tw {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.tw td {
+    font-size: 13px;
+    padding: 6px 5px;
+    border-style: solid;
+    border-width: 1px;
+    overflow: hidden;
+    word-break: normal;
+    border-color: #757575;
+}
+
+.tw th {
+    font-size: 13px;
+    font-weight: normal;
+    padding: 6px 5px;
+    border-style: solid;
+    border-width: 1px;
+    overflow: hidden;
+    word-break: normal;
+    border-color: #757575;
+}
+
+.tw .tw-wvu2 {
+    font-weight: bold;
+    background-color: #c5c5c5;
+    border-color: #757575;
+    text-align: center;
+    vertical-align: top
+}
+
+.tw .tw-af47 {
+    color: #000000;
+    border-color: inherit;
+    text-align: center;
+    vertical-align: top
+}
+
+.tw .tw-c3ow {
+    border-color: inherit;
+    text-align: center;
+    vertical-align: top
+}
+
+.tw .tw-zkkt {
+    font-weight: bold;
+    background-color: #c5c5c5;
+    text-align: left;
+    vertical-align: top
+}
+
+.tw .tw-0lax {
+    text-align: left;
+    vertical-align: top
+}
+
+p {
+    margin-top: -30px;
+}
+
+.ty {
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin: 0px auto;
+}
+
+.ty td {
+    font-size: 12px;
+    padding: 5px 5px;
+    border-style: solid;
+    border-width: 1px;
+    overflow: hidden;
+    word-break: normal;
+    border-color: white;
+}
+
+.ty th {
+    font-size: 12px;
+    font-weight: normal;
+    padding: 5px 5px;
+    border-style: solid;
+    border-width: 1px;
+    overflow: hidden;
+    word-break: normal;
+    border-color: white;
+}
+
+.ty .ty-o6sr {
+    font-weight: bold;
+    border-color: white;
+    text-align: center;
+    vertical-align: middle
+}
+
+.ty .ty-aykm {
+    border-color: white;
+    text-align: center;
+    vertical-align: middle
+}
+
+.print-indicator {
+    margin-bottom: 30px;
+}
+
+.tk {
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin-bottom: 10px;
+}
+
+.tk td {
+    font-size: 12px;
+    border-style: none;
+    border-width: 1px;
+    padding: 5px 5px;
+    overflow: hidden;
+    word-break: normal;
+    border-color: white;
+}
+
+.tk th {
+    font-size: 12px;
+    font-weight: normal;
+    border-style: solid;
+    border-width: 1px;
+    padding: 5px 5px;
+    overflow: hidden;
+    word-break: normal;
+    border-color: white;
+}
+
+.tk .tk-z4i2 {
+    border-color: #ffffff;
+    text-align: left;
+    vertical-align: middle
+}
+
+.tk .tk-zv4m {
+    border-color: #ffffff;
+    text-align: left;
+    vertical-align: top
+}
+
+.tk .tk-ofj5 {
+    border-color: #ffffff;
+    text-align: left;
+    vertical-align: top
+}

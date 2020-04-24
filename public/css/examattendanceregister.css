@@ -1,0 +1,170 @@
+body {
+    display: flex;
+    font-family: 'Century Gothic', sans-serif;
+    background-color: white !important;
+    justify-content: center;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.center-items-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+#print-icon {
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+.container-start {
+    display: flex;
+    justify-content: start;
+}
+
+#details-table-2 {
+    margin-top: 23px;
+}
+
+.center-text {
+    text-align: center;
+}
+
+#register-title {
+    margin-top: -12px;
+}
+
+.top-20 {
+    margin-top: 20px;
+}
+
+/* Table 1 */
+
+.tz {
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin: 0px auto;
+}
+
+.tz td {
+    font-size: 12px;
+    padding: 8px 5px;
+    border-style: solid;
+    border-width: 1px;
+    overflow: hidden;
+    word-break: normal;
+    border-color: #d4d3d3;
+}
+
+.tz th {
+    font-size: 12px;
+    font-weight: normal;
+    padding: 8px 5px;
+    border-style: solid;
+    border-width: 1px;
+    overflow: hidden;
+    word-break: normal;
+    border-color: #d4d3d3;
+}
+
+.tz .tz-gb3q {
+    font-weight: bold;
+    background-color: #ebe7e7;
+    border-color: #d4d3d3;
+    text-align: center;
+    vertical-align: top
+}
+
+.tz .tz-9wq8 {
+    border-color: #d4d3d3;
+    text-align: center;
+    vertical-align: middle
+}
+
+.tz .tz-c3ow {
+    border-color: #d4d3d3;
+    text-align: center;
+    vertical-align: top
+}
+
+.tz .tz-ke5m {
+    font-size: 12px;
+    font-weight: bold;
+    background-color: #ebe7e7;
+    border-color: #d4d3d3;
+    text-align: center;
+    vertical-align: middle
+}
+
+/* Table 2 */
+
+.tw {
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin: 0px auto;
+}
+
+.tw td {
+    font-size: 12px;
+    padding: 7px 5px;
+    border-style: solid;
+    border-width: 1px;
+    overflow: hidden;
+    word-break: normal;
+    border-color: #616161;
+}
+
+.tw th {
+    font-size: 12px;
+    font-weight: normal;
+    padding: 12px 5px;
+    border-style: solid;
+    border-width: 1px;
+    overflow: hidden;
+    word-break: normal;
+    border-color: #616161;
+}
+
+.tw .tw-lboi {
+    border-color: inherit;
+    text-align: left;
+    vertical-align: middle
+}
+
+.tw .tw-olgw {
+    font-weight: bold;
+    background-color: #c9c9c9;
+    border-color: #616161;
+    text-align: center;
+    vertical-align: top
+}
+
+.tw .tw-9wq8 {
+    border-color: #616161;
+    text-align: center;
+    vertical-align: middle
+}
+
+.tw .tw-c3ow {
+    border-color: #616161;
+    text-align: center;
+    vertical-align: top
+}
+
+.tw .tw-2qds {
+    font-weight: bold;
+    background-color: #c9c9c9;
+    border-color: #616161;
+    text-align: center;
+    vertical-align: middle
+}
+
+.tw .tw-0pky {
+    border-color: #616161;
+    text-align: left;
+    vertical-align: top
+}
